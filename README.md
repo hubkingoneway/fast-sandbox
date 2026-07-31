@@ -1,0 +1,2 @@
+# fast-sandbox
+wasm project
